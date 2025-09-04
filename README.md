@@ -45,7 +45,7 @@ Implement pagination
 Rutuja
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/book-finder.git
+git clone https://github.com/RutujaMavkar1204/Book_Finder_Aganitha.git
 cd book-finder
 2. Install dependencies
 bash

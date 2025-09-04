@@ -1,5 +1,3 @@
-# Book_Finder_Aganitha
-A React app that integrates with the Open Library API to search books by title, display details like author, publish year, and cover, with filtering options and a clean, responsive UI.
 # 📖 Book Finder
 
 Book Finder is a React-based web application that allows users to search for books quickly and view details such as title, author(s), first publish year, and cover images. It uses the **Open Library Search API** to provide a smooth and responsive experience for students, readers, and researchers.
@@ -17,19 +15,10 @@ Book Finder is a React-based web application that allows users to search for boo
 - **API:** [Open Library Search API](https://openlibrary.org/dev/docs/api/search)  
 
 ## 📂 Project Setup
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/book-finder.git
-   cd book-finder
-Install dependencies
-
-bash
-Copy code
+```bash
+git clone https://github.com/RutujaMavkar1204/Book_Finder_Aganitha.git
+cd book-finder
 npm install
-Run the app
-
-bash
-Copy code
 npm run dev
 The app will be available at:
 👉 http://localhost:5173/ (Vite default) or http://localhost:3000/ (CRA)
@@ -40,8 +29,7 @@ Search books by title:
 http
 Copy code
 GET https://openlibrary.org/search.json?title=harry+potter
-📸 Screenshots
-(Add your screenshots here for better presentation)
+
 
 📌 Future Improvements
 Add search by author, subject, or ISBN
@@ -53,14 +41,7 @@ Show trending/popular books
 Implement pagination
 
 👤 Author
-Your Name – LinkedIn | GitHub
-
-yaml
-Copy code
-
----
-
-Do you also want me to add a **“Live Demo” section** at the top so HR can click and directly try your app once you deploy it?
+Rutuja 
 
 
 
@@ -68,4 +49,3 @@ Do you also want me to add a **“Live Demo” section** at the top so HR can cl
 
 
 
-Ask ChatGPT
